@@ -8,7 +8,7 @@
       "recipeLink":"https://brooklynfarmgirl.com/scrambled-eggs-with-bacon/",
       "recipeTime":"10 minutes",
       "recipeMealType":"B",
-      "recipeImage":"r1.jpg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r1.jpg"
     }
     ,
     {
@@ -18,7 +18,7 @@
       "recipeLink":"https://www.simplyrecipes.com/recipes/how_to_make_an_omelet/",
       "recipeTime":"6 minutes",
       "recipeMealType":"B",
-      "recipeImage":"r2.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r2.jpeg"
     }
     ,
     {
@@ -28,7 +28,7 @@
       "recipeLink":"https://cafedelites.com/cheesy-bacon-and-egg-hash/",
       "recipeTime":"35 minutes",
       "recipeMealType":"B",
-      "recipeImage":"r3.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r3.jpeg"
     }
     ,
     {
@@ -38,7 +38,7 @@
       "recipeLink":"https://www.allrecipes.com/recipe/7016/french-toast-i/",
       "recipeTime":"10 minutes",
       "recipeMealType":"B",
-      "recipeImage":"r4.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r4.jpeg"
     }
     ,
     {
@@ -48,7 +48,7 @@
       "recipeLink":"https://cookieandkate.com/avocado-toast-recipe/",
       "recipeTime":"5 minutes",
       "recipeMealType":"B",
-      "recipeImage":"r5.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r5.jpeg"
     }
     ,
     {
@@ -58,7 +58,7 @@
       "recipeLink":"https://www.spendwithpennies.com/classic-chicken-salad-recipe/",
       "recipeTime":"15 minutes",
       "recipeMealType":"L" ,
-      "recipeImage":"r6.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r6.jpeg"
     }
     ,
     {
@@ -68,7 +68,7 @@
       "recipeLink":"https://www.masterclass.com/articles/how-to-make-greek-salad",
       "recipeTime":"10 minutes",
       "recipeMealType":"L",
-      "recipeImage":"r7.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r7.jpeg"
     }
     ,
     {
@@ -78,7 +78,7 @@
       "recipeLink":"https://www.masterclass.com/articles/how-to-cook-perfect-lentils-easy-lentil-soup-recipe",
       "recipeTime":"1 hour",
       "recipeMealType":"L",
-      "recipeImage":"r8.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r8.jpeg"
     }
     ,
     {
@@ -88,7 +88,7 @@
       "recipeLink":"https://natashaskitchen.com/grilled-cheese-sandwich/",
       "recipeTime":"8 minutes",
       "recipeMealType":"L" ,
-      "recipeImage":"r9.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r9.jpeg"
     }
     ,
     {
@@ -98,7 +98,7 @@
       "recipeLink":"https://www.favfamilyrecipes.com/turkey-sandwich/",
       "recipeTime":"5 minutes",
       "recipeMealType":"L" ,
-      "recipeImage":"r10.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r10.jpeg"
     }
     ,
     {
@@ -108,7 +108,7 @@
       "recipeLink":"https://www.allrecipes.com/recipe/228823/quick-beef-stir-fry/",
       "recipeTime":"25 minutes",
       "recipeMealType":"D",
-      "recipeImage":"r11.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r11.jpeg"
     }
     ,
     {
@@ -118,7 +118,7 @@
       "recipeLink":"https://www.allrecipes.com/recipe/23431/to-die-for-fettuccine-alfredo/",
       "recipeTime":"30 minutes",
       "recipeMealType":"D",
-      "recipeImage":"r12.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r12.jpeg"
     }
     ,
     {
@@ -128,7 +128,7 @@
       "recipeLink":"https://www.bettycrocker.com/recipes/stuffed-peppers/63e29e18-903e-467c-aec5-fba4ce3a138f",
       "recipeTime":"55 minutes",
       "recipeMealType":"D",
-      "recipeImage":"r13.jpg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r13.jpg"
     }
     ,
     {
@@ -138,7 +138,7 @@
       "recipeLink":"https://www.lifesambrosia.com/baked-salmon-with-lemon-caper-butter-recipe/",
       "recipeTime":"35 minutes",
       "recipeMealType":"D",
-      "recipeImage":"r14.jpg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r14.jpg"
     }
     ,
     {
@@ -148,7 +148,7 @@
       "recipeLink": "https://cooking.nytimes.com/recipes/9101-classic-shrimp-scampi",
       "recipeTime":"15 minutes",
       "recipeMealType":"D" ,
-      "recipeImage":"r15.jpeg"
+      "recipeImage":"https://raw.githubusercontent.com/WillCBarker/recipeJson/main/r15.jpeg"
     }
      
    ],
